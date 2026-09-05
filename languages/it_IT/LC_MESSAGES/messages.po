@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Appointment Store 0.1.19\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d Community Store product(s) currently use Appointment Store."
+msgstr "%d prodotto/i Community Store utilizza/no attualmente Appointment Store."
+
+msgid "A Community Store product option with the handle \"appointment_slot\" already exists and is not managed by Appointment Store."
+msgstr "Esiste già un’opzione prodotto Community Store con handle \"appointment_slot\" che non è gestita da Appointment Store."
+
+msgid "A booked calendar URL is required in two-calendar mode."
+msgstr "In modalità a due calendari è richiesto l’URL del calendario degli appuntamenti prenotati."
+
+msgid "A booked calendar is required for move booking mode."
+msgstr "Per la modalità di prenotazione con spostamento è richiesto un calendario delle prenotazioni."
+
+msgid "A booked category is required for category booking mode."
+msgstr "Per la modalità di prenotazione per categoria è richiesta una categoria per gli appuntamenti prenotati."
+
+msgid "A password or app password is required."
+msgstr "È richiesta una password o una password per app."
+
+msgid "A valid CalDAV account is required."
+msgstr "È richiesto un account CalDAV valido."
+
+msgid "A valid Community Store product and calendar source are required."
+msgstr "Sono richiesti un prodotto Community Store valido e una sorgente calendario valida."
+
+msgid "Accounts"
+msgstr "Account"
+
+msgid "Actions"
+msgstr "Azioni"
+
+msgid "Add CalDAV Account"
+msgstr "Aggiungi account CalDAV"
+
+msgid "Add Calendar Source"
+msgstr "Aggiungi sorgente calendario"
+
+msgid "Add to Cart"
+msgstr "Aggiungi al carrello"
+
+msgid "Adds CalDAV-backed appointment booking to Community Store products."
+msgstr "Aggiunge la prenotazione di appuntamenti tramite CalDAV ai prodotti Community Store."
+
+msgid "Amount"
+msgstr "Importo"
+
+msgid "An available category is required to release category-based bookings."
+msgstr "Per liberare le prenotazioni basate su categorie è richiesta una categoria per gli appuntamenti disponibili."
+
+msgid "Appointment"
+msgstr "Appuntamento"
+
+msgid "Appointment Store"
+msgstr "Appointment Store"
+
+msgid "Appointment Store creates a required Community Store text option with handle %s. In your product template, render the Appointment Store picker instead of the normal field for this option."
+msgstr "Appointment Store crea un’opzione di testo Community Store obbligatoria con handle %s. Nel template del prodotto viene visualizzato il selettore Appointment Store al posto del normale campo per questa opzione."
+
+msgid "Appointment Store requires the PHP sodium extension."
+msgstr "Appointment Store richiede l’estensione PHP Sodium."
+
+msgid "Appointment booking was disabled for the product."
+msgstr "La prenotazione degli appuntamenti è stata disattivata per il prodotto."
+
+msgid "Appointment date"
+msgstr "Data dell’appuntamento"
+
+msgid "Appointment products can only be added with a quantity of one."
+msgstr "I prodotti con appuntamento possono essere aggiunti solo con quantità uno."
+
+msgid "Appointment slots synchronized successfully."
+msgstr "Fasce orarie sincronizzate correttamente."
+
+msgid "Appointments"
+msgstr "Appuntamenti"
+
+msgid "Automatic"
+msgstr "Automatico"
+
+msgid "Available"
+msgstr "Disponibile"
+
+msgid "Available Calendar URL"
+msgstr "URL calendario disponibilità"
+
+msgid "Available Category"
+msgstr "Categoria disponibile"
+
+msgid "Available times"
+msgstr "Orari disponibili"
+
+msgid "Booked"
+msgstr "Prenotato"
+
+msgid "Booked Calendar URL"
+msgstr "URL calendario prenotazioni"
+
+msgid "Booked Category"
+msgstr "Categoria prenotato"
+
+msgid "Booking Mode"
+msgstr "Modalità di prenotazione"
+
+msgid "CalDAV Account"
+msgstr "Account CalDAV"
+
+msgid "CalDAV Base URL"
+msgstr "URL base CalDAV"
+
+msgid "CalDAV account deleted."
+msgstr "Account CalDAV eliminato."
+
+msgid "CalDAV account not found."
+msgstr "Account CalDAV non trovato."
+
+msgid "CalDAV account saved."
+msgstr "Account CalDAV salvato."
+
+msgid "CalDAV calendar query failed with HTTP %s."
+msgstr "La query del calendario CalDAV non è riuscita con HTTP %s."
+
+msgid "CalDAV connection successful."
+msgstr "Connessione CalDAV riuscita."
+
+msgid "CalDAV connection test failed with HTTP %s."
+msgstr "Il test della connessione CalDAV non è riuscito con HTTP %s."
+
+msgid "CalDAV request failed: %s"
+msgstr "Richiesta CalDAV non riuscita: %s"
+
+msgid "Calendar"
+msgstr "Calendario"
+
+msgid "Calendar Source"
+msgstr "Sorgente calendario"
+
+msgid "Calendar Sources"
+msgstr "Sorgenti calendario"
+
+msgid "Calendar connection successful."
+msgstr "Connessione al calendario riuscita."
+
+msgid "Calendar source deleted."
+msgstr "Sorgente calendario eliminata."
+
+msgid "Calendar source not found."
+msgstr "Sorgente calendario non trovata."
+
+msgid "Calendar source saved."
+msgstr "Sorgente calendario salvata."
+
+msgid "Calendars"
+msgstr "Calendari"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Cart Reservation (minutes)"
+msgstr "Prenotazione carrello (minuti)"
+
+msgid "Categories"
+msgstr "Categorie"
+
+msgid "Categories in one calendar"
+msgstr "Categorie in un unico calendario"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Community Store Product"
+msgstr "Prodotto Community Store"
+
+msgid "Community Store product not found."
+msgstr "Prodotto Community Store non trovato."
+
+msgid "Configure Appointment Product"
+msgstr "Configura prodotto con appuntamento"
+
+msgid "Create a CalDAV account first."
+msgstr "Crea prima un account CalDAV."
+
+msgid "Create and enable a calendar source first."
+msgstr "Crea e abilita prima una sorgente calendario."
+
+msgid "Date picker and time buttons"
+msgstr "Selettore data e pulsanti orario"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Delete this CalDAV account?"
+msgstr "Eliminare questo account CalDAV?"
+
+msgid "Delete this calendar source?"
+msgstr "Eliminare questa sorgente calendario?"
+
+msgid "Dimensions"
+msgstr "Dimensioni"
+
+msgid "Disable"
+msgstr "Disattiva"
+
+msgid "Disable appointment booking for this product?"
+msgstr "Disattivare la prenotazione degli appuntamenti per questo prodotto?"
+
+msgid "Disabled"
+msgstr "Disattivato"
+
+msgid "Disabled (history retained)"
+msgstr "Disattivato (cronologia conservata)"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Edit CalDAV Account"
+msgstr "Modifica account CalDAV"
+
+msgid "Edit Calendar Source"
+msgstr "Modifica sorgente calendario"
+
+msgid "Enabled"
+msgstr "Attivo"
+
+msgid "Enter Other Amount"
+msgstr "Inserisci un altro importo"
+
+msgid "Enter the CalDAV base URL or user principal URL. Calendar URLs may be absolute or relative to this URL."
+msgstr "Inserisci l’URL base CalDAV o l’URL principal dell’utente. Gli URL dei calendari possono essere assoluti o relativi a questo URL."
+
+msgid "Error"
+msgstr "Errore"
+
+msgid "Featured Item"
+msgstr "Prodotto in evidenza"
+
+msgid "Final Booking Trigger"
+msgstr "Evento per la prenotazione definitiva"
+
+msgid "Free and booked categories are required in category mode."
+msgstr "In modalità categoria sono richieste le categorie disponibile e prenotato."
+
+msgid "Frontend Display"
+msgstr "Visualizzazione frontend"
+
+msgid "Invalid booking mode."
+msgstr "Modalità di prenotazione non valida."
+
+msgid "Invalid security token."
+msgstr "Token di sicurezza non valido."
+
+msgid "Invalid timezone."
+msgstr "Fuso orario non valido."
+
+msgid "Last Sync"
+msgstr "Ultima sincronizzazione"
+
+msgid "Leave blank to keep the stored password."
+msgstr "Lascia vuoto per mantenere la password salvata."
+
+msgid "List Price"
+msgstr "Prezzo di listino"
+
+msgid "Manufacturer"
+msgstr "Produttore"
+
+msgid "Missing calendar source"
+msgstr "Sorgente calendario mancante"
+
+msgid "Mode"
+msgstr "Modalità"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Name and available calendar URL are required."
+msgstr "Sono richiesti il nome e l’URL del calendario disponibilità."
+
+msgid "Name, CalDAV base URL and username are required."
+msgstr "Sono richiesti nome, URL base CalDAV e nome utente."
+
+msgid "Next"
+msgstr "Avanti"
+
+msgid "No accounts configured."
+msgstr "Nessun account configurato."
+
+msgid "No active session is available for appointment reservation."
+msgstr "Non è disponibile alcuna sessione attiva per la prenotazione dell’appuntamento."
+
+msgid "No appointment products configured."
+msgstr "Nessun prodotto con appuntamento configurato."
+
+msgid "No appointments are available on this date."
+msgstr "Nessun appuntamento disponibile in questa data."
+
+msgid "No appointments are currently available"
+msgstr "Al momento non ci sono appuntamenti disponibili"
+
+msgid "No calendar sources configured yet."
+msgstr "Nessuna sorgente calendario ancora configurata."
+
+msgid "No calendar sources configured."
+msgstr "Nessuna sorgente calendario configurata."
+
+msgid "Not Available"
+msgstr "Non disponibile"
+
+msgid "On Sale"
+msgstr "In offerta"
+
+msgid "Open Tasks"
+msgstr "Apri attività"
+
+msgid "Option"
+msgstr "Opzione"
+
+msgid "Order placed"
+msgstr "Ordine effettuato"
+
+msgid "Out of Stock"
+msgstr "Esaurito"
+
+msgid "Password / App Password"
+msgstr "Password / Password app"
+
+msgid "Payment complete"
+msgstr "Pagamento completato"
+
+msgid "Please choose an appointment"
+msgstr "Scegli un appuntamento"
+
+msgid "Please choose an appointment."
+msgstr "Scegli un appuntamento."
+
+msgid "Please select an appointment."
+msgstr "Seleziona un appuntamento."
+
+msgid "Previous"
+msgstr "Indietro"
+
+msgid "Product"
+msgstr "Prodotto"
+
+msgid "Product appointment configuration not found."
+msgstr "Configurazione appuntamento del prodotto non trovata."
+
+msgid "Product appointment configuration saved."
+msgstr "Configurazione appuntamento del prodotto salvata."
+
+msgid "Product not available"
+msgstr "Prodotto non disponibile"
+
+msgid "Products"
+msgstr "Prodotti"
+
+msgid "Quantity"
+msgstr "Quantità"
+
+msgid "Release appointment when order is cancelled"
+msgstr "Rendi nuovamente disponibile l’appuntamento quando l’ordine viene annullato"
+
+msgid "Required"
+msgstr "Obbligatorio"
+
+msgid "Reserved"
+msgstr "Riservato"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Select"
+msgstr "Elenco di selezione"
+
+msgid "Source"
+msgstr "Sorgente"
+
+msgid "Status"
+msgstr "Stato"
+
+msgid "Sync Horizon (days)"
+msgstr "Orizzonte di sincronizzazione (giorni)"
+
+msgid "Synchronize Appointment Slots"
+msgstr "Sincronizza fasce appuntamenti"
+
+msgid "Synchronizes available CalDAV events and releases expired cart reservations."
+msgstr "Sincronizza gli eventi CalDAV disponibili e libera le prenotazioni del carrello scadute."
+
+msgid "Test"
+msgstr "Test"
+
+msgid "The CalDAV server returned invalid XML."
+msgstr "Il server CalDAV ha restituito XML non valido."
+
+msgid "The appointment belongs to another order."
+msgstr "L’appuntamento appartiene a un altro ordine."
+
+msgid "The appointment is no longer available."
+msgstr "L’appuntamento non è più disponibile."
+
+msgid "The appointment reservation belongs to a different product configuration."
+msgstr "La prenotazione dell’appuntamento appartiene a una configurazione prodotto diversa."
+
+msgid "The appointment reservation could not be verified for this order."
+msgstr "Non è stato possibile verificare la prenotazione dell’appuntamento per questo ordine."
+
+msgid "The appointment selected for this order is invalid."
+msgstr "L’appuntamento selezionato per questo ordine non è valido."
+
+msgid "The booked CalDAV resource is unknown."
+msgstr "La risorsa CalDAV prenotata è sconosciuta."
+
+msgid "The calendar event changed after it was synchronized."
+msgstr "L’evento del calendario è stato modificato dopo la sincronizzazione."
+
+msgid "The calendar event changed before it could be deleted."
+msgstr "L’evento del calendario è stato modificato prima che potesse essere eliminato."
+
+msgid "The calendar event could not be parsed."
+msgstr "Non è stato possibile elaborare l’evento del calendario."
+
+msgid "The destination calendar event already exists or changed."
+msgstr "L’evento nel calendario di destinazione esiste già oppure è stato modificato."
+
+msgid "The image cannot be loaded"
+msgstr "Impossibile caricare l’immagine"
+
+msgid "The stored CalDAV credential could not be decrypted."
+msgstr "Non è stato possibile decifrare le credenziali CalDAV memorizzate."
+
+msgid "The stored CalDAV credential is invalid."
+msgstr "Le credenziali CalDAV memorizzate non sono valide."
+
+msgid "This account is still used by one or more calendar sources."
+msgstr "Questo account è ancora utilizzato da una o più sorgenti calendario."
+
+msgid "This appointment does not belong to this product."
+msgstr "Questo appuntamento non appartiene a questo prodotto."
+
+msgid "This appointment is already assigned to an order."
+msgstr "Questo appuntamento è già assegnato a un ordine."
+
+msgid "This appointment is currently reserved by another customer."
+msgstr "Questo appuntamento è attualmente riservato da un altro cliente."
+
+msgid "This appointment is no longer available."
+msgstr "Questo appuntamento non è più disponibile."
+
+msgid "This appointment is no longer available. Please choose another time."
+msgstr "Questo appuntamento non è più disponibile. Scegli un altro orario."
+
+msgid "This appointment is reserved for a different product."
+msgstr "Questo appuntamento è riservato per un altro prodotto."
+
+msgid "This calendar source is still used by products or synchronized slots. Disable it instead of deleting it."
+msgstr "Questa sorgente calendario è ancora utilizzata da prodotti o fasce sincronizzate. Disattivala invece di eliminarla."
+
+msgid "Timezone"
+msgstr "Fuso orario"
+
+msgid "Two calendars"
+msgstr "Due calendari"
+
+msgid "Two calendars (free → booked)"
+msgstr "Due calendari (disponibile → prenotato)"
+
+msgid "Unable to delete calendar event (HTTP %s)."
+msgstr "Impossibile eliminare l’evento del calendario (HTTP %s)."
+
+msgid "Unable to determine the CalDAV event filename."
+msgstr "Impossibile determinare il nome del file dell’evento CalDAV."
+
+msgid "Unable to load appointments."
+msgstr "Impossibile caricare gli appuntamenti."
+
+msgid "Unable to read calendar event (HTTP %s)."
+msgstr "Impossibile leggere l’evento del calendario (HTTP %s)."
+
+msgid "Unable to write calendar event (HTTP %s)."
+msgstr "Impossibile scrivere l’evento del calendario (HTTP %s)."
+
+msgid "Unavailable"
+msgstr "Non disponibile"
+
+msgid "Username"
+msgstr "Nome utente"
+
+msgid "Weight"
+msgstr "Peso"
+
+msgid "Wholesale Price"
+msgstr "Prezzo all’ingrosso"
+
+msgid "Zoom"
+msgstr "Ingrandisci"
+
+msgid "no"
+msgstr "no"
+
+msgid "out of stock"
+msgstr "esaurito"
+
+msgid "was"
+msgstr "prima"
+
+msgid "yes"
+msgstr "sì"
+
+msgid "%d hours"
+msgstr "%d ore"
+
+msgid "Minimum booking notice"
+msgstr "Anticipo minimo di prenotazione"
+
+msgid "No minimum notice"
+msgstr "Nessun anticipo minimo"
+
+msgid "Appointments starting sooner than this cannot be selected or reserved."
+msgstr "Gli appuntamenti che iniziano prima di questo intervallo non possono essere selezionati o prenotati."
+
+msgid "This appointment can no longer be booked because the minimum booking notice has passed."
+msgstr "Questo appuntamento non può più essere prenotato perché non rispetta l’anticipo minimo di prenotazione."
+
+
+msgid "This appointment was just booked."
+msgstr "Questo appuntamento è stato appena prenotato."
+
+msgid "The selected appointment is no longer available. Please choose another available appointment."
+msgstr "L’appuntamento selezionato non è più disponibile. Seleziona un altro appuntamento disponibile."
+
+msgid "Availability has been refreshed."
+msgstr "La disponibilità è stata aggiornata."
+
+msgid "Choose another appointment"
+msgstr "Scegli un altro appuntamento"
+
+msgid "Unable to verify appointment availability. Please try again."
+msgstr "Impossibile verificare la disponibilità dell’appuntamento. Riprova."
+
+msgid "Appointment currently being booked"
+msgstr "Appuntamento attualmente in fase di prenotazione"
+
+msgid "This appointment is currently reserved as part of an active booking process. If you already added it to your cart, you can continue your booking there. Otherwise, it may become available again if the current booking is not completed."
+msgstr "Questo appuntamento è attualmente riservato nell’ambito di una procedura di prenotazione in corso. Se lo hai già aggiunto al carrello, puoi continuare la prenotazione da lì. Altrimenti, potrebbe tornare disponibile se la prenotazione in corso non viene completata."
+
+msgid "Some appointments are currently reserved in active booking processes and may become available again if those bookings are not completed."
+msgstr "Alcuni appuntamenti sono attualmente riservati in procedure di prenotazione in corso e potrebbero tornare disponibili se tali prenotazioni non vengono completate."
+
+msgid "Appointment no longer available"
+msgstr "Appuntamento non più disponibile"
+
+msgid "Appointment can no longer be booked"
+msgstr "Appuntamento non più prenotabile"
+

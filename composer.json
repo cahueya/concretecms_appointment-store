@@ -1,0 +1,14 @@
+{
+  "name": "local/appointment-store",
+  "description": "CalDAV appointment booking for Community Store on Concrete CMS 9+.",
+  "type": "concrete5-package",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Concrete\\Package\\AppointmentStore\\": "src/"
+    }
+  }
+}

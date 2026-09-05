@@ -1,0 +1,41 @@
+/* Appointment Store adds only the availability marker; Flatpickr provides the calendar styling. */
+.appointment-store-picker .flatpickr-day.appointment-store-available-day:not(.selected) {
+    font-weight: 700;
+    position: relative;
+}
+
+.appointment-store-picker .flatpickr-day.appointment-store-available-day:not(.selected)::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: 3px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: currentColor;
+    transform: translateX(-50%);
+}
+
+.appointment-store-picker .appointment-store-date-display {
+    cursor: pointer;
+}
+
+/* Temporarily reserved days stay visible so customers can understand why a
+ * previously seen appointment cannot currently be selected. A hollow marker
+ * distinguishes a booking-process hold from a free appointment. */
+.appointment-store-picker .flatpickr-day.appointment-store-reserved-day:not(.selected) {
+    position: relative;
+}
+
+.appointment-store-picker .flatpickr-day.appointment-store-reserved-day:not(.selected)::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: 3px;
+    width: 4px;
+    height: 4px;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+    background: transparent;
+    transform: translateX(-50%);
+}
